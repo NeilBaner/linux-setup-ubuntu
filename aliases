@@ -1,0 +1,5 @@
+alias in="sudo apt install -y"
+alias up="sudo apt update && sudo apt upgrade -y"
+
+alias sunfire="ssh neilb@sunfire.comp.nus.edu.sg"
+alias suncp="suncp.sh"
